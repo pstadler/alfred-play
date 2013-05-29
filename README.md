@@ -6,7 +6,7 @@ Control iTunes and Spotify using the **same global hotkeys** with this Alfred wo
 
 [Download](Play.alfredworkflow?raw=true)
 
-# Configuration
+## Configuration
 
 After installing *Play*,  choose the hotkeys you'd like to use.
 
