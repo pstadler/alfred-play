@@ -1,8 +1,8 @@
 # Play for Alfred
 
-> Intelligent global hotkeys for iTunes and Spotify.
+> Intelligent global hotkeys for Music.app and Spotify.
 
-Control iTunes and Spotify using the **same global hotkeys** with this Alfred workflow. *Play* magically knows which player you're currently using and **sends the command to the right place**.
+Control Music.app and Spotify using the **same global hotkeys** with this Alfred workflow. *Play* magically knows which player you're currently using and **sends the command to the right place**.
 
 [Download](Play.alfredworkflow?raw=true)
 
